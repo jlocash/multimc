@@ -22,6 +22,7 @@ BuildRequires:  desktop-file-utils
 
 Requires:       hicolor-icon-theme
 Requires:       java-headless
+Requires:	    java-1.8.0-openjdk
 
 %description
 MultiMC is a free, open source launcher for Minecraft. It allows you to have
